@@ -1,0 +1,54 @@
+[33mcommit ccc49a248d4e71faba6e9bac608142a095ed6f6c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 20:37:21 2026 +0300
+
+    the bad commit
+
+[33mcommit 8cc996f247a0adc009d410c62ab11f76afca5fc2[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 20:34:24 2026 +0300
+
+    the good commit
+
+[33mcommit f3e2c3ad53231d0c139dfd5068fe47e3640a8e42[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 19:36:23 2026 +0300
+
+    osx test
+
+[33mcommit f7bdd19a753e9158bc6850058fe52f24a572fbf5[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 19:17:07 2026 +0300
+
+    added  files from stash
+
+[33mcommit f79f3eb253c185aa0efec541e2175eea68c230d5[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 19:05:47 2026 +0300
+
+    added the nain
+
+[33mcommit d44e0c7b1a18bf3899dfd8cac7c696337c0a6783[m[33m ([m[1;31morigin/scroll[m[33m)[m
+Merge: 778df7f 20f105d
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 18:10:14 2026 +0300
+
+    Merge branch 'main' of https://github.com/ramy01201526/Our-Project
+
+[33mcommit 778df7f75bd2da212ea2b646557ffb07fc5372f6[m
+Author: unknown <ramy.z201516@gmail.com>
+Date:   Sat Jul 25 18:02:05 2026 +0300
+
+    testing branch
+
+[33mcommit 20f105d21c1e527a4e1d5e8c32e41c6624022b56[m
+Author: ramy01201526 <ramyz19942019@outlook.com>
+Date:   Sat Jul 25 17:46:54 2026 +0300
+
+    Update README.md
+
+[33mcommit 14075587eed287881a4b58fae83ef390431b45ad[m
+Author: ramy01201526 <ramyz19942019@outlook.com>
+Date:   Sat Jul 25 17:39:43 2026 +0300
+
+    Initial commit
